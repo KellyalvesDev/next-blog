@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Introdução ao Next.js 15",
+    "author": "Maria Silva",
+    "date": "2025-11-10",
+    "summary": "Conheça as novidades do Next.js 15 e como migrar seu projeto.",
+    "content": "<p>Next.js 15 traz melhorias de performance, roteamento e novos recursos no App Router.</p>"
+  },
+  {
+    "title": "Boas práticas em SEO para aplicações React",
+    "author": "João Pereira",
+    "date": "2025-10-02",
+    "summary": "Dicas práticas para otimizar suas páginas para motores de busca.",
+    "content": "<p>Use metadata dinâmico, headings semânticos e conteúdo renderizado no servidor.</p>"
+  },
+  {
+    "title": "Consumindo APIs no Server Component",
+    "author": "Ana Costa",
+    "date": "2025-09-15",
+    "summary": "Exemplo de como buscar dados em Server Components usando async/await.",
+    "content": "<p>Server Components permitem buscar dados diretamente sem hooks cliente.</p>"
+  }
+]
